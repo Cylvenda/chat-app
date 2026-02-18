@@ -1,6 +1,6 @@
 # Chatting App
 
-Firebase-powered Flutter chat app with email/password authentication, user discovery, one-to-one real-time messaging and light/dark theme switching.
+Firebase-powered Flutter chat app with email/password authentication, user discovery, one-to-one real-time messaging, notifications, and light/dark theme switching.
 
 ## Features
 
@@ -104,8 +104,8 @@ Each chat room metadata document contains fields such as:
 1. Clone and enter the project:
 
 ```bash
-git clone https://github.com/Cylvenda/chat-app.git
-cd chat-app
+git clone <your-repo-url>
+cd chatting_app
 ```
 
 2. Install dependencies:
